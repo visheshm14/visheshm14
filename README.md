@@ -14,6 +14,9 @@ I've built several full-stack applications, including e-commerce platform and a 
 Fun Facts:
 
 ~ I am currently pursuing my B.Tech at Medi-caps University.
+
 ~ I can play the keyboards and drums.
+
 ~ I’m a traditional artist who loves sketching and potrait making.
+
 ~ Hobbies: Learning new skills, playing sports, and exploring AI pipelines.
