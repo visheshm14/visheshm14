@@ -1,22 +1,21 @@
-Hey there! 🫡
-I'm Vishesh, a full-stack developer and artist based in Indore.
+# 💫 About Me:
+Hey there! 🫡 I'm Vishesh, a full-stack developer and artist based in Indore.<br><br>I design and build whatever I can imagine.<br><br>If an idea pops into my head, chances are I'll build it and ship it.<br><br>My main tech stack is Spring Boot, React, and MySQL. I'm currently exploring advanced machine learning applications for real-time identification systems.<br><br>I've got a bunch of pinned projects, but my favorite is the Simhastha Ujjain Crowd Surveillance System.(Missing-person-project)<br><br>I've built several full-stack applications, including e-commerce platform and a Weather Prediction model.<br><br>Fun Facts:<br><br>🎓 I am currently pursuing my B.Tech at Medi-caps University.<br><br>🎹 I can play the keyboards and drums.<br><br>🎨 I’m a traditional artist who loves sketching and potrait making.<br><br>~ Hobbies: Learning new skills, playing sports, and exploring AI pipelines.
 
-I design and build whatever I can imagine.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishesh__m14/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishesh-mishra-b08863329?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishesh Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshmishra149@gmail.com) 
 
-My main tech stack is Spring Boot, React, and MySQL. I'm currently exploring advanced machine learning applications for real-time identification systems.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=visheshm14&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=visheshm14&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=visheshm14&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-I've got a bunch of pinned projects, but my favorite is the Simhastha Ujjain Crowd Surveillance System.(Missing-person-project)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=visheshm14&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-I've built several full-stack applications, including e-commerce platform and a Weather Prediction model.
+---
+[![](https://komarev.com/ghpvc/?username=visheshm14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Fun Facts:
-
-🎓 I am currently pursuing my B.Tech at Medi-caps University.
-
-🎹 I can play the keyboards and drums.
-
-🎨 I’m a traditional artist who loves sketching and potrait making.
-
-~ Hobbies: Learning new skills, playing sports, and exploring AI pipelines.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
